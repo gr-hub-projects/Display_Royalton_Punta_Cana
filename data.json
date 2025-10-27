@@ -1,7 +1,32 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [],
+    "content": [
+      {
+        "id": "4147012",
+        "Flight": "AA2638",
+        "PickupDate": "2025-10-27",
+        "PickupTime": "08:55",
+        "HotelName": "Royalton Punta Cana",
+        "HotelNumber": 16358
+      },
+      {
+        "id": "9871SF404666",
+        "Flight": "UA1463",
+        "PickupDate": "2025-10-27",
+        "PickupTime": "12:20",
+        "HotelName": "Royalton Punta Cana",
+        "HotelNumber": 16358
+      },
+      {
+        "id": "9871SF403969",
+        "Flight": "B62632",
+        "PickupDate": "2025-10-27",
+        "PickupTime": "05:20",
+        "HotelName": "Royalton Punta Cana",
+        "HotelNumber": 16358
+      }
+    ],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
