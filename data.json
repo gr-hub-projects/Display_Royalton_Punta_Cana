@@ -3,58 +3,34 @@
     "type": "JSON",
     "content": [
       {
-        "id": "1QWZ2G",
-        "Flight": "DL1833",
-        "PickupDate": "2025-11-04",
-        "PickupTime": "11:00",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "9871SF396616",
-        "Flight": "B61016",
-        "PickupDate": "2025-11-04",
-        "PickupTime": "10:20",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "GNXY71",
-        "Flight": "B62632",
-        "PickupDate": "2025-11-04",
-        "PickupTime": "07:30",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "9871SF377449",
-        "Flight": "UPP000",
-        "PickupDate": "2025-11-03",
+        "id": "9871SF414523",
+        "Flight": "TBA000",
+        "PickupDate": "2025-11-05",
         "PickupTime": "⚠️",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       },
       {
-        "id": "9871SF412925",
-        "Flight": "B6268",
-        "PickupDate": "2025-11-04",
-        "PickupTime": "09:30",
+        "id": "9871SF413273",
+        "Flight": "AV129",
+        "PickupDate": "2025-11-05",
+        "PickupTime": "08:55",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       },
       {
-        "id": "9871SF377877",
-        "Flight": "NOT CONFIRMED",
-        "PickupDate": "2025-11-04",
+        "id": "9871SF414522",
+        "Flight": "TBA000",
+        "PickupDate": "2025-11-05",
         "PickupTime": "⚠️",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       },
       {
-        "id": "9871SF351545",
-        "Flight": "NOT CONFIRMED",
-        "PickupDate": "2025-11-04",
-        "PickupTime": "⚠️",
+        "id": "4425027",
+        "Flight": "AA1324",
+        "PickupDate": "2025-11-05",
+        "PickupTime": "11:37",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       }
