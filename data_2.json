@@ -3,74 +3,34 @@
     "type": "JSON",
     "content": [
       {
-        "id": "461-2734924",
-        "Flight": "UA524",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "12:30",
+        "id": "BQ1CF7",
+        "Flight": "AC0987",
+        "PickupDate": "2025-12-23",
+        "PickupTime": "11:30",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       },
       {
-        "id": "9871SF412836",
-        "Flight": "B6268",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "10:05",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "6M9ZZ2",
-        "Flight": "NK0784",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "14:25",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "4604342",
-        "Flight": "AA0765",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "13:40",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "4488918",
-        "Flight": "WN0822",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "12:45",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "9871SF415825",
+        "id": "9871SF370603",
         "Flight": "TBA000",
-        "PickupDate": "2025-12-22",
+        "PickupDate": "2025-12-23",
         "PickupTime": "⚠️",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       },
       {
-        "id": "9871SF429506",
-        "Flight": "UPP000",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "⚠️",
+        "id": "K5428F",
+        "Flight": "B61116",
+        "PickupDate": "2025-12-23",
+        "PickupTime": "13:03",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       },
       {
-        "id": "9871SF395792",
-        "Flight": "AA3209",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "09:35",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      },
-      {
-        "id": "X8HFL2",
-        "Flight": "UA1863",
-        "PickupDate": "2025-12-22",
-        "PickupTime": "12:40",
+        "id": "SBW2RH",
+        "Flight": "WN822",
+        "PickupDate": "2025-12-23",
+        "PickupTime": "12:25",
         "HotelName": "Royalton Punta Cana",
         "HotelNumber": 16358
       }
