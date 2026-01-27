@@ -1,16 +1,7 @@
 {
   "templates": {
     "type": "JSON",
-    "content": [
-      {
-        "id": "LRL2H2",
-        "Flight": "B60496",
-        "PickupDate": "2026-01-27",
-        "PickupTime": "13:50",
-        "HotelName": "Royalton Punta Cana",
-        "HotelNumber": 16358
-      }
-    ],
+    "content": [],
     "source": {
       "data_source": "Google Sheets (Private)",
       "update_frequency": "Automated"
